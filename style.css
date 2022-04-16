@@ -1,0 +1,45 @@
+
+
+.mynavbar
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mynavbar .mainIcon
+{
+    margin-top: 12px;
+}
+.mynavbar h3{
+    padding: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container .mybtn
+{
+    width: 27%;
+    font-size: 25px;
+    height: 60px;
+    padding: 12px;
+    font-weight: 700;
+    border-radius: 1px;
+    background-color: tomato;
+    color: white;
+}
+
+.jokeText{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#joke{
+    background-color:bisque;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    display:none;
+
+}
