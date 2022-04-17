@@ -37,8 +37,9 @@
 
 #joke {
   background-color: bisque;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  padding: 15px;
+  padding: 20px;
   border-radius: 5px;
   display: none;
 }
